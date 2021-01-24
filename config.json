@@ -1,9 +1,10 @@
 {
   "ads_config": {
     "ad_waterfall": [
-      "facebook"
+      "admob",
+      "unity"
     ],
-    "ad_time": 10,
+    "ad_time": 0,
     "ad_model": [
       {
         "name": "admob",
@@ -18,14 +19,7 @@
         "banner_id": "banner",
         "popup_id": "video",
         "reward_id": "rewardedVideo"
-      },
-      {
-        "name": "facebook",
-        "app_id": "",
-        "banner_id": "1220401638359321_1305798879819596",
-        "popup_id": "1220401638359321_1220403548359130",
-        "reward_id": "1220401638359321_1221126364953515"
-      },
+      }
     ]
   },
   "fanpage_config": {
